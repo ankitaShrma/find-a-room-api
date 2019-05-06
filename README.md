@@ -2,8 +2,7 @@
 ## Prerequisites
 
 - Node.js
-- Yarn
-- NPM
+- Yarn/NPM
 - PostgreSQL
 
 Contains:
